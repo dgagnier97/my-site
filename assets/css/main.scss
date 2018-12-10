@@ -1,0 +1,52 @@
+---
+body,html {
+    background-color: rgb(195, 145, 5);
+    font-family: 'Roboto', sans-serif;
+}
+img {
+    display: block;
+    margin: 0 auto; 
+    border: 5px solid darkred;
+    border-radius: 300px
+}
+
+ul {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+ul > li {
+    color: darkred;
+    display: inline;
+    margin: 0 5px 0 5px;
+    margin: 0 auto;
+}
+
+figcaption {
+    margin: 0 auto;
+    color: darkred
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: darkred
+}
+
+p {
+    color: darkred;
+}
+
+    .grey-copy{
+        color: grey
+        }
+
+        #content-wrapper {
+            width: 575px;
+            margin: 0 auto;
+        }
+
+i {
+    font-size: 55px;
+}
+---
